@@ -26,12 +26,6 @@ function testDistributions() {
                 } else {
                     dist12[val12] = 1;
                 }
-
-                if (result3[coiso3]) {
-                    result3[coiso3]++;
-                } else {
-                    result3[coiso3] = 1;
-                }
             }
         }
     }
